@@ -1,6 +1,5 @@
 # parquets (cualquier archivo con extensión .parquet)
-data/processed/*.parquet
-outputs/*.parquet
+*.parquet
 
 # entorno
 .ACTINVER
@@ -30,3 +29,19 @@ __pycache__/
 *.pyzwz
 *.pyzwzw
 *.pyzwzwz
+
+# excel
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.xlsm
+*.xlsb
+*.xlsm
+*.xlsb
+
+# backtest & last run
+data/processed/backtest_results.parquet
+data/processed/backtest_metrics.json
+data/processed/last_run.json
+*.json
