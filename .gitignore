@@ -1,0 +1,16 @@
+# parquets (cualquier archivo con extensión .parquet)
+data/processed/*.parquet
+outputs/*.parquet
+
+# entorno
+.ACTINVER
+
+# logs
+*.log
+
+#csv
+data/raw/*.csv
+outputs/*.csv
+
+#cpython
+__pycache__/
