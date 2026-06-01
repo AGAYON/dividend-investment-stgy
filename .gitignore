@@ -45,3 +45,6 @@ data/processed/backtest_results.parquet
 data/processed/backtest_metrics.json
 data/processed/last_run.json
 *.json
+
+# reportes
+reports/*
