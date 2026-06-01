@@ -11,6 +11,7 @@ outputs/*.parquet
 #csv
 data/raw/*.csv
 outputs/*.csv
+data/processed/*.csv
 
 #cpython
 __pycache__/
