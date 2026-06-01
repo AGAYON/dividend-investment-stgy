@@ -4,7 +4,7 @@ Actinver · Estrategia Investor US Equities
 
 Filtros aplicados sobre el S&P 500:
   1. Market cap >= $100B
-  2. Dividend yield TTM >= 3%
+  2. Dividend yield TTM >= 0.5%
   3. ADV 90 días > $50M  (volumen x precio promedio)
   4. Historial de precios disponible desde 2013-01-01
 """
