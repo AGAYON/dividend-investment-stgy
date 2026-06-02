@@ -48,3 +48,9 @@ data/processed/last_run.json
 
 # reportes
 reports/*
+
+#pdf
+*.pdf
+
+# pptx
+*.pptx
